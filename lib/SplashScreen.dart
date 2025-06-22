@@ -29,7 +29,7 @@ class _SplashScreenState extends State<SplashScreen>{
         color: Color(0xff290133),
         padding: EdgeInsets.all(60),
         child: Center(
-          child: Image.asset("images/logo.png"),
+          child: Image.asset("images/Camada 1.png"),
         ),
       ),
     );
